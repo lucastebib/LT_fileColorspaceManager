@@ -26,6 +26,6 @@ In Maya, open the **Script Editor**, create a new **Python** shelf and copy and 
 Then press **Ctrl+Enter**.
 From the **Script Editor**, you can also drag and drop this code in a shelf in order to create a button for this tool.
 
-# LICENSING
+# License
 This tool is completely free of charge. You can share it, but you may not sell it in any way, shape, or form. No profit whatsoever is allowed under any circumstances.
 This tool is licensed under the CC BY-NC-ND 4.0 license.
